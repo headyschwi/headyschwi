@@ -10,12 +10,6 @@
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=headyschwi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="heady-csharp" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="heady-golang" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" alt="heady-golang" height="75" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-</div>
-  
   ##
   
 <div> 
