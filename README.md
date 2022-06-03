@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Eder =p
 
 - 🔭 Entusiasta de tecnologia
-- 🌱 Estou estudando GoLang atualmente
+- 🌱 Estou estudando front-end atualmente
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: C# > java assim como CS>Valorant. CS supremacy 🤝
 <div align="center">
