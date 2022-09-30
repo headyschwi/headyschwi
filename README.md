@@ -1,9 +1,9 @@
 ### Oi! Eu sou o Eder =p
 
 - 🔭 Entusiasta de tecnologia
-- 🌱 Estou estudando front-end atualmente
+- 🤓 Atualmente sou estudante de Engenharia e Ciência de Dados na Universidade de Coimbra 
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: C# > java assim como CS>Valorant. CS supremacy 🤝
+- ⚡ Fun fact: C# > Java, assim como, CS>Valorant. CS supremacy 🤝
 <div align="center">
   <a href="https://github.com/headyschwi">
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=headyschwi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
