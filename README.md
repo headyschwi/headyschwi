@@ -1,7 +1,3 @@
-### Oi! Eu sou o Eder =p
-
-- 🔭 Entusiasta de tecnologia
-- 🤓 Atualmente sou estudante de Engenharia e Ciência
 <div align="center">
   <a href="https://github.com/headyschwi">
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=headyschwi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
